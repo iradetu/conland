@@ -7,24 +7,6 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
-culture_group_miti = {
-	graphical_culture = westerngfx
-	
-	culture_saki = {
-		primary = SAI
-		
-		male_names = {
-			Toònsò
-		}
-		female_names = {
-			Moòllè
-		}
-		dynasty_names = {
-			Sóhhà
-		}
-	}
-}
-
 lhemitic = {
 	graphical_culture = westerngfx
 	
@@ -41,6 +23,20 @@ lhemitic = {
 		dynasty_names = {
 			Jeffers
 			Larkin
+		}
+	}
+
+	culture_saki = {
+		primary = SAI
+		
+		male_names = {
+			Toònsò
+		}
+		female_names = {
+			Moòllè
+		}
+		dynasty_names = {
+			Sóhhà
 		}
 	}
 }
