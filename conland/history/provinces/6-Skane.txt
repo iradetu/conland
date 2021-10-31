@@ -1,15 +1,14 @@
-#MitiCapital
+#Skane
 
 add_core = MIT
 owner = MIT
 controller = MIT
-culture = english
+culture = mitic
 religion = catholic
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = grain
+trade_goods = fish
 base_manpower = 1
-capital = "Miti"
+capital = "Skane"
 is_city = yes
-fort_15th = yes
