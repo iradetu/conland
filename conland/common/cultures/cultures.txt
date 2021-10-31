@@ -1,0 +1,46 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+culture_group_miti = {
+	graphical_culture = westerngfx
+	
+	culture_saki = {
+		primary = SAI
+		
+		male_names = {
+			Toònsò
+		}
+		female_names = {
+			Moòllè
+		}
+		dynasty_names = {
+			Sóhhà
+		}
+	}
+}
+
+lhemitic = {
+	graphical_culture = westerngfx
+	
+	mitic = {
+		primary = MIT
+		
+		male_names = {
+			Aaron
+			Tom
+		}
+		female_names = {
+			Erin
+		}
+		dynasty_names = {
+			Jeffers
+			Larkin
+		}
+	}
+}
