@@ -1,4 +1,4 @@
-#Eastern and Northern Småland - Includes parts under Östgötalag
+#Saki2
 
 add_core = SAI
 owner = SAI
@@ -10,6 +10,6 @@ base_tax = 2
 base_production = 2
 trade_goods = naval_supplies
 base_manpower = 1
-capital = "Kalmar"
+capital = ""
 is_city = yes
 discovered_by = western
