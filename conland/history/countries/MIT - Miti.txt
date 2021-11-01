@@ -3,7 +3,7 @@ add_government_reform = feudal_monarchy
 mercantilism = 25
 technology_group = western
 primary_culture = mitic
-religion = catholic
+religion = cow_nago
 capital = 6 # Skane
 national_focus = DIP
 
