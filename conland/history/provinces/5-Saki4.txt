@@ -1,4 +1,4 @@
-#Värmland
+#Saki4
 
 add_core = SAI
 owner = SAI
@@ -10,6 +10,6 @@ base_tax = 1
 base_production = 1
 trade_goods = iron
 base_manpower = 1
-capital = "Karlstad"
+capital = ""
 is_city = yes
 discovered_by = western
