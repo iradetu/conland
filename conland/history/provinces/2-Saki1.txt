@@ -1,4 +1,4 @@
-#Capital of Saki
+#Saki1
 
 add_core = SAI
 owner = SAI
@@ -10,6 +10,6 @@ base_tax = 7
 base_production = 9
 trade_goods = glass
 base_manpower = 4
-capital = "Saki"
+capital = ""
 is_city = yes
 discovered_by = western
