@@ -4,7 +4,7 @@ mercantilism = 25
 primary_culture = culture_saki
 religion = bird_nago
 technology_group = western
-capital = 2 # Saki
+capital = 2 # Saki1
 
 1382.1.1 = {
 	monarch = {
