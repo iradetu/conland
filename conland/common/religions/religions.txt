@@ -1,0 +1,79 @@
+nago = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+
+	cow_nago = {
+		color = { 56 4 105 }
+		icon = 1
+		
+		allowed_conversion = {
+			bird_nago
+		}
+		
+		country = {
+			production_efficiency = 0.05
+			improve_relation_modifier = 0.15
+		}
+		
+		province = {
+			local_manpower_modifier = 0.1
+			local_missionary_strength = 0.1
+		}
+		
+		on_convert = {
+			change_religion = cow_nago
+			add_prestige = -10
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		declare_war_in_regency = yes
+		
+		heretic = { DEVIANT	}
+		
+		misguided_heretic = yes
+	}
+	
+	bird_nago = {
+		color = { 175 172 244 }
+		icon = 2
+		
+		allowed_conversion = {
+			cow_nago
+		}
+		
+		country = {
+			global_tax_modifier = 0.05
+			build_cost = -0.05
+		}
+		
+		province = {
+			local_institution_spread = 0.1
+			local_missionary_strength = 0.1
+		}
+		
+		on_convert = {
+			change_religion = bird_nago
+			add_prestige = -10
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		declare_war_in_regency = yes
+		
+		heretic = { DEVIANT	}
+		
+		misguided_heretic = yes
+	}
+
+	harmonized_modifier = harmonized_nago
+	
+	crusade_name = KUNIPER
+}
