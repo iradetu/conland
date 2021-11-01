@@ -1,4 +1,4 @@
-#Miti
+#Miti1
 
 add_core = MIT
 owner = MIT
@@ -6,10 +6,10 @@ controller = MIT
 culture = mitic
 religion = cow_nago
 hre = no
-base_tax = 5
-base_production = 9
-trade_goods = livestock
-base_manpower = 7
-capital = "Miti"
+base_tax = 7
+base_production = 7
+trade_goods = fish
+base_manpower = 6
+capital = "Miti1"
 is_city = yes
 discovered_by = western
