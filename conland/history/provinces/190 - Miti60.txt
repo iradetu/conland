@@ -1,0 +1,15 @@
+#Miti60
+
+add_core = MIT
+owner = MIT
+controller = MIT
+culture = mitic
+religion = bird_nago
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 4
+capital = ""
+is_city = yes
+discovered_by = western
