@@ -3,10 +3,11 @@
 owner = MIT
 controller = MIT
 add_core = MIT
+add_core = SOQ
 capital = ""
 is_city = yes
-culture = mitic
-religion = cow_nago
+culture = soqri
+religion = bird_nago
 hre = no
 base_tax = 3
 base_production = 3
