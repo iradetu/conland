@@ -3,7 +3,8 @@
 owner = MIT
 controller = MIT
 add_core = MIT
-culture = mitic
+add_core = SOQ
+culture = soqri
 religion = bird_nago
 capital = ""
 trade_goods = naval_supplies
