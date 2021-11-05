@@ -34,4 +34,22 @@ archipelagine = {
 			Sóhhà
 		}
 	}
+	
+	soqri = {
+		primary = SOQ
+		
+		male_names = {
+			Aaron
+			Tom
+		}
+		
+		female_names = {
+			Erin
+		}
+		
+		dynasty_names = {
+			Jeffers
+			Larkin
+		}
+	}
 }
