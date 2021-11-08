@@ -3,7 +3,7 @@
 namespace = flavour_mit
 normal_or_historical_nations = yes
 
-# Miti Is Angy At You For Existing
+# An Offer You Cannot Refuse
 country_event = {
 	id = flavour_mit.1
 	title = "flavour_mit.EVTNAME1"
@@ -19,6 +19,7 @@ country_event = {
 	}
 }
 
+# Tyrannical Reign Is Over!
 country_event = {
 	id = flavour_mit.2
 	title = "flavour_mit.EVTNAME2"
