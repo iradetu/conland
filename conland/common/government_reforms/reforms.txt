@@ -1,0 +1,32 @@
+vassal_republic = {
+	icon = "man_and_children"
+	allow_normal_conversion = no
+	allow_convert = no
+	lock_level_when_selected = yes
+	duration = 10
+	allow_vassal_war = yes
+	allow_vassal_alliance = yes
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	
+	nation_designer_trigger = {
+		is_subject_of_type_with_overlord = { who = MIT type = vassal }
+	}
+	
+	nation_designer_cost = 0
+	republican_name = no
+	royal_marriage = yes
+	
+	modifiers = {
+		global_tax_modifier = 0.1
+		production_efficiency = 0.1
+		prestige = 0.5
+		global_autonomy = -0.05
+		max_absolutism = -50
+    	governing_capacity = -100
+	}
+	
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
