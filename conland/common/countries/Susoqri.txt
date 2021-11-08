@@ -131,9 +131,9 @@ ship_names = {
 }
 
 army_names = {
-	"Army of $RELIGION$" "Army of Susoqri" "Army of $PROVINCE$"
+	"Army of Susoqri" "Army of $PROVINCE$"
 }
 
 fleet_names = {
-	"Fleet of $RELIGION$" "Fleet of Susoqri" "Fleet of $PROVINCE$"
+	"Fleet of Susoqri" "Fleet of $PROVINCE$"
 }
