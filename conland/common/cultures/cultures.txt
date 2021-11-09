@@ -5,15 +5,15 @@ lhemitic = {
 		primary = MIT
 		
 		male_names = {
-			Aaron
-			Tom
+			Eram
+			Tama
 		}
 		female_names = {
-			Erin
+			Eram
 		}
 		dynasty_names = {
-			Jeffers
-			Larkin
+			Eram
+			Tama
 		}
 	}
 }
@@ -25,13 +25,13 @@ archipelagine = {
 		primary = SAI
 		
 		male_names = {
-			Toònsò
+			Toonso
 		}
 		female_names = {
-			Moòllè
+			Moolle
 		}
 		dynasty_names = {
-			Sóhhà
+			Sohha
 		}
 	}
 	
@@ -39,17 +39,17 @@ archipelagine = {
 		primary = SOQ
 		
 		male_names = {
-			Aaron
-			Tom
+			Eram
+			Tama
 		}
 		
 		female_names = {
-			Erin
+			Eram
 		}
 		
 		dynasty_names = {
-			Jeffers
-			Larkin
+			Eram
+			Tama
 		}
 	}
 }
