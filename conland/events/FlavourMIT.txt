@@ -12,7 +12,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "flavor_mit.EVTOPTA1"
+		name = "flavour_mit.EVTOPTA1"
 		
 		change_government = republic
 		add_government_reform = vassal_republic
@@ -28,14 +28,14 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "flavor_mit.EVTOPTA2"
+		name = "flavour_mit.EVTOPTA2"
 		
 		remove_government_reform = vassal_republic
 		change_government = republic
 	}
 	
 	option = {
-		name = "flavor_mit.EVTOPTB2"
+		name = "flavour_mit.EVTOPTB2"
 		
 		remove_government_reform = vassal_republic
 		change_government = monarchy
