@@ -7,12 +7,3 @@ add_historical_friend = MIT
 religion = bird_nago
 technology_group = western
 capital = 2 # Saki1
-
-1382.1.1 = {
-	monarch = {
-		name = "Antonio Venier"
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
