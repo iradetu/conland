@@ -11,8 +11,8 @@ national_focus = DIP
 
 1422.8.31 = {
 	monarch = {
-		name = "Tom"
-		dynasty = "Larkin"
+		name = "Tama"
+		dynasty = "Tama"
 		birth_date = 1402.11.19
 		adm = 3
 		dip = 5
