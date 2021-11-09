@@ -1,0 +1,8 @@
+﻿l_english:
+ flavour_mit.EVTNAME1: "An Offer You Cannot Refuse"
+ flavour_mit.EVTDESC1: "The eminent [From.Monarch.GetTitle] of [From.GetName] has entered our court and calls for the outrageous removal of our entire nobility! Upon denying this ridiculous notion, the court was met with the presence of several swords and axes. The choices are simple, submit or die."
+ flavour_mit.EVTOPT1: "What choice do we have?"
+ flavour_mit.EVTNAME2: "The Tyrannical Reign Is Over"
+ flavour_mit.EVTDESC2: "The bloody and oppressive reign of [From.GetName] has been forcibly removed! Luckily, we managed to hold out long enough for the [From.Monarch.GetTitle]'s hold over our nation to slip away. Perhaps we should take this moment of respite to fix what was wrongly enforced upon us, we could reinstate our old noble families, or we could simply reform our republican government."
+ flavour_mit.EVTOPTA2: "A republican government will aid our nation"
+ flavour_mit.EVTOPTB2: "We must return to our roots!"
