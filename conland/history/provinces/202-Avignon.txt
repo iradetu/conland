@@ -1,0 +1,14 @@
+# 202 Avignon - Principal cities: Avignon
+
+owner = SAI
+controller = SAI
+capital = ""
+is_city = yes
+culture = culture_saki
+religion = cow_nago
+hre = no
+base_tax = 4 
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
+discovered_by = western

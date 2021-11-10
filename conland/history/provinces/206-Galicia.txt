@@ -1,0 +1,15 @@
+#206 - Galicia
+
+owner = SAI
+controller = SAI
+add_core = SAI
+culture = culture_saki
+religion = fish_nago
+hre = no
+base_tax = 3
+base_production = 2
+trade_goods = fish
+base_manpower = 2
+capital = "" 
+is_city = yes
+discovered_by = western

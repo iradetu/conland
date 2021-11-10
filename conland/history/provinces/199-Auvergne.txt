@@ -1,0 +1,15 @@
+# 199 Auvergne - Principal cities: Clermont-Ferrand
+
+owner = SAI
+controller = SAI
+add_core = SAI
+capital = ""
+is_city = yes
+culture = culture_saki
+religion = snake_nago
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 2
+discovered_by = western

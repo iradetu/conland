@@ -1,0 +1,15 @@
+#Miti59
+
+add_core = MIT
+owner = MIT
+controller = MIT
+culture = mitic
+religion = snake_nago
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 5
+capital = ""
+is_city = yes
+discovered_by = western

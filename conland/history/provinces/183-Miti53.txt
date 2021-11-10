@@ -1,0 +1,15 @@
+#Miti53
+
+owner = MIT
+controller = MIT
+add_core = MIT
+capital = ""
+is_city = yes
+culture = mitic
+religion = bird_nago
+hre = no
+base_tax = 8
+base_production = 8
+trade_goods = paper
+base_manpower = 7
+discovered_by = western

@@ -1,0 +1,15 @@
+# 198 Rouergue - Principal cities: Rodez
+
+owner = SAI
+controller = SAI
+add_core = SAI
+capital = ""
+is_city = yes
+culture = culture_saki
+religion = cow_nago
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+discovered_by = western
