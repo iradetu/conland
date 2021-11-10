@@ -196,7 +196,7 @@ nago = {
 	}
 	
 	snake_nago = {
-		color = { 62 152 56 }
+		color = { 12 102 6 }
 		icon = 6
 		
 		allowed_conversion = {
