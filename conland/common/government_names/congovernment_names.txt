@@ -1,0 +1,60 @@
+mitic_empire = {
+	rank = {
+		3 = KEPITU
+	}
+	
+	ruler_male = {
+		3 = KEPEV
+	}
+
+	ruler_female = {
+		3 = KEPEVE
+	}
+
+	consort_male = {
+		3 = HOPEVA
+	}
+
+	consort_female = {
+		3 = HOPEV
+	}
+	
+	heir_male = {
+		3 = GE
+	}
+
+	heir_female = {
+		3 = GEHE
+	}
+
+	trigger = {
+		tag = MIT
+	}
+}
+
+mitic_vassal_republic = {
+	rank = {
+		1 = STATELESS_SOCIETY
+		2 = STATELESS_SOCIETY
+		3 = STATELESS_SOCIETY
+	}
+
+	ruler_male = {
+		1 = TRIBAL_LEADER
+		2 = TRIBAL_LEADER
+		3 = TRIBAL_LEADER
+	}
+
+	ruler_female = {
+		1 = TRIBAL_LEADER
+		2 = TRIBAL_LEADER
+		3 = TRIBAL_LEADER
+	}
+
+	trigger = {
+		has_reform = vassal_republic
+		overlord = {
+			tag = MIT
+		}
+	}
+}
