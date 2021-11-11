@@ -1,9 +1,9 @@
-# 200 Languedoc - Principal cities: Montpellier
+# 200 Xtei Rouye
 
 owner = SAI
 controller = SAI
 add_core = SAI
-capital = ""
+capital = "Xtei Rouye"
 is_city = yes
 culture = culture_saki
 religion = cow_nago
