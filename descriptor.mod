@@ -1,10 +1,10 @@
-version="1.31.x"
+version="1.0"
 tags={
 	"Alternative History"
 	"Map"
 }
 name="Conland"
-supported_version="1.31.6"
+supported_version="1.32.*"
 remote_file_id="2640101200"
 replace_path = "history/countries"
 replace_path = "history/provinces"
