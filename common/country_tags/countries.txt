@@ -1,3 +1,4 @@
 MIT = "countries/Miti.txt"
+RUN = "countries/Rungajore.txt"
 SAI = "countries/Saki.txt"
 SOQ = "countries/Susoqri.txt"

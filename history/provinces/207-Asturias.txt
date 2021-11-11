@@ -1,15 +1,15 @@
 #207 - Asturias
 
-owner = SAI
-controller = SAI
-add_core = SAI
+owner = RUN
+controller = RUN
+add_core = RUN
 culture = culture_saki
 religion = cow_nago
 hre = no
-base_tax = 4
-base_production = 4
+base_tax = 2
+base_production = 2
 trade_goods = livestock 
-base_manpower = 3
+base_manpower = 1
 capital = "" 
 is_city = yes
 discovered_by = western

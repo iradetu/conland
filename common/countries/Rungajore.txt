@@ -1,0 +1,32 @@
+#Country Name: Rungajore
+
+graphical_culture = westerngfx
+
+color = { 76 168 92 }
+
+revolutionary_colors = { 1  14  1 }
+
+monarch_names = {
+	"Antonio #0" = 20
+	"Michele #0" = 20
+	"Tomasso #0" = 20
+	"Mosé #0" = 40
+	"Niccolò #0" = 40
+	"Domenico #0" = 20
+	"Francesco #0" = 20
+	"Giovanni #0" = 20
+	"Marco #0" = 20
+	"Vittore #0" = 20
+}
+
+leader_names = {
+	Kouei
+}
+
+ship_names = {
+	"Rungajore Fleet"
+}
+
+army_names = {
+	"$PROVINCE$ Feit"
+}

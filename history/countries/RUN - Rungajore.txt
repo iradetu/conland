@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 15
+primary_culture = culture_saki
+religion = cow_nago
+technology_group = western
+capital = 200 # Xtei Rouje

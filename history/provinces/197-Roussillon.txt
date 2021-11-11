@@ -1,8 +1,8 @@
 # 197 Roussillon - Principal cities: Perpignan
 
-owner = SAI
-controller = SAI
-add_core = SAI
+owner = RUN
+controller = RUN
+add_core = RUN
 capital = ""
 is_city = yes
 culture = culture_saki

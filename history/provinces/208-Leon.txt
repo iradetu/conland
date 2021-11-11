@@ -1,8 +1,8 @@
 #208 - León
 
-owner = SAI
-controller = SAI
-add_core = SAI
+owner = RUN
+controller = RUN
+add_core = RUN
 culture = culture_saki
 religion = cow_nago
 hre = no
