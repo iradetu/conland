@@ -133,6 +133,7 @@ republic = {
 			}
 		}
 	}
+	
 	exclusive_reforms = {
 		parliamentary_reform
 		dutch_republic
