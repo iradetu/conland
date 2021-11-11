@@ -1,0 +1,15 @@
+#Miti6
+
+owner = MIT
+controller = MIT
+add_core = MIT
+culture = mitic
+religion = goat_nago
+capital = ""
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = western

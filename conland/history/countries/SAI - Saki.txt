@@ -1,9 +1,0 @@
-government = republic
-add_government_reform = saki_republic
-mercantilism = 25
-primary_culture = culture_saki
-add_accepted_culture = mitic
-add_historical_friend = MIT
-religion = fish_nago
-technology_group = western
-capital = 2 # Saki1

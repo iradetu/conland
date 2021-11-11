@@ -1,0 +1,43 @@
+# Minor Flavor Events
+
+namespace = flavour_mit
+normal_or_historical_nations = yes
+
+# An Offer You Cannot Refuse
+country_event = {
+	id = flavour_mit.1
+	title = "flavour_mit.EVTNAME1"
+	desc = "flavour_mit.EVTDESC1"
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	
+	option = {
+		name = "flavour_mit.EVTOPT1"
+		
+		change_government = republic
+		add_government_reform = vassal_republic
+	}
+}
+
+# The Tyrannical Reign Is Over
+country_event = {
+	id = flavour_mit.2
+	title = "flavour_mit.EVTNAME2"
+	desc = "flavour_mit.EVTDESC2"
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	
+	option = {
+		name = "flavour_mit.EVTOPTA2"
+		
+		remove_government_reform = vassal_republic
+		change_government = republic
+	}
+	
+	option = {
+		name = "flavour_mit.EVTOPTB2"
+		
+		remove_government_reform = vassal_republic
+		change_government = monarchy
+	}
+}

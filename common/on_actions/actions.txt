@@ -1,0 +1,34 @@
+# ROOT = Overlord, FROM = Minor
+
+on_dependency_gained = {
+	FROM = {
+		if = {
+			limit = {
+				is_subject_of_type = vassal
+				OR = { # Add other future overlord tags here
+					is_subject_of = MIT
+				}
+			}
+			
+			country_event = {
+				id = flavour_mit.1
+				days = 1
+			}
+		}
+	}
+}
+
+on_dependency_lost = {
+	FROM = {
+		if = {
+			limit = {
+				has_reform = vassal_republic
+			}
+			
+			country_event = {
+				id = flavour_mit.2
+				days = 1
+			}
+		}
+	}
+}

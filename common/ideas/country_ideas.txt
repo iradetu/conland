@@ -1,0 +1,38 @@
+#Niapti
+MIT_ideas = {
+	start = {
+		build_cost = -0.1
+		naval_attrition = -0.1
+	}
+	
+	bonus = {
+		global_missionary_strength = 0.02
+	}	
+
+	trigger = {
+		tag = MIT
+	}
+	free = yes
+	
+	mit_colonial_urge = {
+		range = 0.3
+	}
+	mit_mountaineers = {
+		land_attrition = -0.1
+	}
+	mit_grand_fleets = {
+		naval_forcelimit_modifier = 0.3
+	}
+	mit_free_lands = {
+		colonists = 1
+	}
+	mit_ancestral_claim = {
+		province_warscore_cost = -0.1
+	}
+	mit_lhemitic_vassal_republics = {
+		reduced_liberty_desire = 10
+	}
+	mit_rulers_of_the_world = {
+		governing_capacity_modifier = 0.1
+	}
+}

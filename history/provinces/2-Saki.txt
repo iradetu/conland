@@ -1,0 +1,15 @@
+#Sáki
+
+add_core = SAI
+owner = SAI
+controller = SAI
+culture = culture_saki
+religion = fish_nago
+hre = no
+base_tax = 7
+base_production = 9
+trade_goods = glass
+base_manpower = 4
+capital = "Saki"
+is_city = yes
+discovered_by = western

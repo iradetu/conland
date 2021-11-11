@@ -1,0 +1,15 @@
+#205 - Savoie
+
+owner = SAI
+controller = SAI
+add_core = SAI
+culture = culture_saki
+religion = cow_nago
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+capital = ""
+is_city = yes	
+discovered_by = western

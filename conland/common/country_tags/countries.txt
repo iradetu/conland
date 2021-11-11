@@ -1,3 +1,0 @@
-MIT = "countries/Miti.txt"
-SAI = "countries/Saki.txt"
-SOQ = "countries/Susoqri.txt"

@@ -1,0 +1,15 @@
+#Miti10
+
+owner = MIT
+controller = MIT
+add_core = MIT
+culture = mitic
+religion = lion_nago
+capital = ""
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+discovered_by = western

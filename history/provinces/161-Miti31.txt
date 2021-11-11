@@ -1,0 +1,15 @@
+#Miti31
+
+owner = MIT
+controller = MIT
+add_core = MIT
+culture = mitic
+religion = cow_nago
+capital = ""
+trade_goods = livestock
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+discovered_by = western

@@ -1,0 +1,15 @@
+#Nosísa
+
+add_core = SAI
+owner = SAI
+controller = SAI
+culture = culture_saki
+religion = snake_nago
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = iron
+base_manpower = 1
+capital = "Nosisa"
+is_city = yes
+discovered_by = western

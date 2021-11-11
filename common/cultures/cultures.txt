@@ -1,0 +1,55 @@
+lhemitic = {
+	graphical_culture = westerngfx
+	
+	mitic = {
+		primary = MIT
+		
+		male_names = {
+			Eram
+			Tama
+		}
+		female_names = {
+			Eram
+		}
+		dynasty_names = {
+			Eram
+			Tama
+		}
+	}
+}
+
+archipelagine = {
+	graphical_culture = westerngfx
+	
+	culture_saki = {
+		primary = SAI
+		
+		male_names = {
+			Toonso
+		}
+		female_names = {
+			Moolle
+		}
+		dynasty_names = {
+			Sohha
+		}
+	}
+	
+	soqri = {
+		primary = SOQ
+		
+		male_names = {
+			Eram
+			Tama
+		}
+		
+		female_names = {
+			Eram
+		}
+		
+		dynasty_names = {
+			Eram
+			Tama
+		}
+	}
+}

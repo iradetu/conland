@@ -1,0 +1,14 @@
+# 201 Provence - Principal cities: Aix-en-Provence, Marseille
+
+owner = SAI
+controller = SAI 
+capital = ""
+is_city = yes
+culture = culture_saki
+religion = bird2_nago
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+discovered_by = western

@@ -1,0 +1,86 @@
+vassal_republic = {
+	
+	potential = {
+		is_subject_of_type = vassal
+		OR = { # Add other future overlord tags here
+			is_subject_of = MIT
+		}
+	}
+	
+	icon = "man_and_children"
+	allow_normal_conversion = no
+	allow_convert = no
+	lock_level_when_selected = yes
+	duration = 10
+	allow_vassal_war = yes
+	allow_vassal_alliance = yes
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	
+	nation_designer_trigger = {
+		is_subject_of_type_with_overlord = { who = MIT type = vassal }
+	}
+	
+	nation_designer_cost = 0
+	republican_name = no
+	royal_marriage = yes
+	
+	modifiers = {
+		global_tax_modifier = 0.1
+		production_efficiency = 0.1
+		prestige = 0.5
+		global_autonomy = -0.05
+		max_absolutism = -50
+    	governing_capacity = -100
+	}
+	
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+saki_republic = {
+	
+	potential = {
+		tag = SAI
+	}
+	
+	icon = "trading_city"
+	allow_normal_conversion = no
+	allow_convert = no
+	lock_level_when_selected = yes
+	duration = 5
+	valid_for_new_country = no
+	valid_for_nation_designer = no
+	
+	boost_income = yes
+	can_use_trade_post = yes
+	can_form_trade_league = yes
+	trade_city_reform = trading_city
+	
+	nation_designer_cost = 50
+	republican_name = no
+	royal_marriage = yes
+	
+	factions = {
+		mr_aristocrats
+		mr_traders
+		mr_guilds
+	}
+	
+	modifiers = {
+		global_tax_modifier = 0.1
+		production_efficiency = 0.1
+		prestige = 0.5
+		global_autonomy = -0.05
+		max_absolutism = -50
+    		governing_capacity = -100
+	}
+	
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+		is_merchant_republic = yes
+		locked_government_type = yes
+	}
+}

@@ -1,0 +1,22 @@
+government = monarchy
+government_rank = 3
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = western
+primary_culture = mitic
+add_accepted_culture = culture_saki
+add_historical_friend = SAI
+religion = cow_nago
+capital = 6 # Miti1
+national_focus = DIP
+
+1422.8.31 = {
+	monarch = {
+		name = "Tama"
+		dynasty = "Tama"
+		birth_date = 1402.11.19
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
