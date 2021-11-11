@@ -6,6 +6,7 @@ republic = {
 			reforms = {
 				#Conland
 				vassal_republic
+				saki_republic
 				
 				#Vanilla
 				oligarchy_reform
