@@ -1,7 +1,9 @@
 # Miti
 
 humutev_area = {
-	color = { 118  99  151 }
-
 	1 7 134 135
+}
+
+pepari_area = {
+	138 139 140 141 143
 }
