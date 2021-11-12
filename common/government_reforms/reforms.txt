@@ -24,6 +24,7 @@ vassal_republic = {
 	nation_designer_cost = 0
 	republican_name = no
 	royal_marriage = yes
+	fixed_rank = 1
 	
 	modifiers = {
 		global_tax_modifier = 0.1
