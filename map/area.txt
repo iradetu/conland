@@ -7,3 +7,7 @@ humutev_area = {
 pepari_area = {
 	138 139 140 141 143
 }
+
+line_area = {
+	150 151 152 154
+}
