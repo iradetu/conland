@@ -38,11 +38,11 @@ mitic_vassal_republic = {
 	}
 
 	ruler_male = {
-		1 = KEPEV_TE
+		1 = TE
 	}
 
 	ruler_female = {
-		1 = KEPEVE_TE
+		1 = TEHE
 	}
 
 	trigger = {
