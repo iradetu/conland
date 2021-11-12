@@ -52,4 +52,22 @@ archipelagine = {
 			Tama
 		}
 	}
+
+	meyeerei = {
+		primary = RUN
+		
+		male_names = {
+			Eram
+			Tama
+		}
+		
+		female_names = {
+			Eram
+		}
+		
+		dynasty_names = {
+			Eram
+			Tama
+		}
+	}
 }

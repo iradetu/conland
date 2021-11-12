@@ -3,7 +3,7 @@
 owner = RUN
 controller = RUN
 add_core = RUN
-culture = culture_saki
+culture = meyeerei
 religion = cow_nago
 hre = no
 base_tax = 2

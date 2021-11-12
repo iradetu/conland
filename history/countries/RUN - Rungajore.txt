@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_monarchy
 mercantilism = 15
-primary_culture = culture_saki
+primary_culture = meyeerei
 religion = cow_nago
 technology_group = western
-capital = 200 # Xtei Rouje
+capital = 200 # Xtei Rouye
