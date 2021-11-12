@@ -11,3 +11,7 @@ pepari_area = {
 line_area = {
 	150 151 152 154
 }
+
+kahe_area = {
+	146 147 148 149 157 161
+}
