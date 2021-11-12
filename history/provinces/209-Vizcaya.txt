@@ -3,7 +3,7 @@
 owner = SAI
 controller = SAI
 add_core = SAI
-culture = culture_saki
+culture = meyeerei
 religion = snake_nago
 hre = no
 base_tax = 2 
